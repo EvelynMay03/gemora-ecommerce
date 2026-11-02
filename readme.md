@@ -30,6 +30,35 @@ Through this project, I gained practical experience in backend development, data
 - User profile management
 - Admin and customer sections
 
+## 📸 Project Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Product Shop
+![Shop](screenshots/shop.png)
+
+### Product Details
+![Product Details](screenshots/details.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
+
+### Inventory Management
+![Inventory Management](screenshots/inventory.png)
+
+### Order Management
+![Order Management](screenshots/orders.png)
+
+### Reports
+![Reports](screenshots/reports.png)
+
 ## 🚀 How to Run
 
 1. Install a local PHP and MySQL environment, such as XAMPP or MAMP.
